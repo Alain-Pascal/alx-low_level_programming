@@ -8,4 +8,5 @@ This directory contains some C files
 * 1-compiler
 * 2-assembler
 * 3-name
+* 4-puts.c
 
