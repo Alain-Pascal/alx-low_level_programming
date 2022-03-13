@@ -6,4 +6,5 @@ This directory contains some C files
 
 * 0-preprocessor
 * 1-compiler
+* 2-assembler
 
