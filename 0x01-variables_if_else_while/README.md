@@ -10,4 +10,5 @@ This directory contains some C files about variables, if, else, and while
 * 3-print_alphabets.c
 * 4-print_alphabt.c
 * 5-print_numbers.c
+* 6-print_numberz.c
 
