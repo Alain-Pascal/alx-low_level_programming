@@ -24,3 +24,6 @@ int _abs(int);
 /* prototype of function print_last_digit */
 int print_last_digit(int);
 
+/* prototype of function jack_bauer */
+void jack_bauer(void);
+
