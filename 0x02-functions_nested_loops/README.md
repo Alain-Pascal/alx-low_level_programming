@@ -10,4 +10,5 @@ This directory contains some C files about functions, nested loops
 * 3-islower.c
 * 4-isalpha.c
 * 5-sign.c
+* 6-abs.c
 

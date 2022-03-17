@@ -18,3 +18,6 @@ int _isalpha(int c);
 /* prototype of function print_sign */
 int print_sign(int n);
 
+/* prototype of function -abs */
+int _abs(int);
+
