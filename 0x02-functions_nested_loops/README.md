@@ -17,4 +17,5 @@ This directory contains some C files about functions, nested loops
 * 10-add.c
 * 11-print_to_98.c
 * 100-times_table.c
+* 101-natural.c
 
