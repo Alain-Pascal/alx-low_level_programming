@@ -4,5 +4,8 @@ This directory contains some C files about debugging
 
 ## files
 
+* main.h
 * 0-main.c
+* 1-main.c
+* 2-largest_number.c
 
