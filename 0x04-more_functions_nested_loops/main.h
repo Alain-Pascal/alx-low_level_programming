@@ -24,4 +24,7 @@ void print_most_numbers(void);
 /* protype of function more_numbers */
 void more_numbers(void);
 
+/* protype of function print_line */
+void print_line(int n);
+
 #endif /* MAIN_H */

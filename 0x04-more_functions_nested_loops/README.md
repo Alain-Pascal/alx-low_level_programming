@@ -11,3 +11,4 @@ This directory contains some C files about more functions, nested loops
 * 3-print_numbers.c
 * 4-print_most_numbers.c
 * 5-more_numbers.c
+* 6-print_line.c
