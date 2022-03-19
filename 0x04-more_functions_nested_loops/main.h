@@ -30,4 +30,7 @@ void print_line(int n);
 /* protype of function print_diagonal */
 void print_diagonal(int n);
 
+/* protype of function print_square */
+void print_square(int size);
+
 #endif /* MAIN_H */
