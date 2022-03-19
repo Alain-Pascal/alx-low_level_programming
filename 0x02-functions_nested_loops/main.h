@@ -1,4 +1,6 @@
 /* This header file contains prototypes functions */
+#ifndef MAIN_H
+#define MAIN_H
 
 /* prototype of function _putchar */
 int _putchar(char c);
@@ -39,3 +41,4 @@ void print_to_98(int n);
 /* prototype of function print_times_table */
 void print_times_table(int n);
 
+#endif /* MAIN_H */
