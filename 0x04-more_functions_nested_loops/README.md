@@ -7,3 +7,5 @@ This directory contains some C files about more functions, nested loops
 * main.h
 * 0-isupper.c
 * 1-isdigit.c
+* 2-mul.c
+* 3-print_numbers.c

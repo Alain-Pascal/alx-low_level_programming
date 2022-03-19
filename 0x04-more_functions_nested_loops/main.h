@@ -12,4 +12,10 @@ int _isupper(int c);
 /* protype of function _isdigit */
 int _isdigit(int c);
 
+/* protype of function mul */
+int mul(int a, int b);
+
+/* protype of function print_numbers */
+void print_numbers(void);
+
 #endif /* MAIN_H */
