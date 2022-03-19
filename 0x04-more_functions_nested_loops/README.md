@@ -14,3 +14,4 @@ This directory contains some C files about more functions, nested loops
 * 6-print_line.c
 * 7-print_diagonal.c
 * 8-print_square.c
+* 9-fizz_buzz.c
