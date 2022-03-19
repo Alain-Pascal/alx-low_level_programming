@@ -9,4 +9,7 @@ int _putchar(char c);
 /* protype of function _isupper */
 int _isupper(int c);
 
+/* protype of function _isdigit */
+int _isdigit(int c);
+
 #endif /* MAIN_H */
