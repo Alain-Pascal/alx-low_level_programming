@@ -11,3 +11,4 @@ This directory contains some C files about pointers, arrays, and strings
 * 2-strlen.c
 * 3-puts.c
 * 4-print_rev.c
+* 5-rev_string.c
