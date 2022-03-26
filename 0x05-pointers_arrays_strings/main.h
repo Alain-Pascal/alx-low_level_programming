@@ -12,4 +12,7 @@ void swap_int(int *a, int *b);
 /* prototype of function _strlen */
 int _strlen(char *s);
 
+/* prototype of function _puts */
+void _puts(char *str);
+
 #endif /* MAIN_H */

@@ -1,5 +1,5 @@
 #include "main.h"
-/* fot strlen() */
+/* for strlen() */
 #include <string.h>
 
 /**
