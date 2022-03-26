@@ -3,6 +3,9 @@
 
 #include <unistd.h>
 
+/* prototype of functin _putchar */
+int _putchar(char c);
+
 /* prototype of function reset_t0_98 */
 void reset_to_98(int *n);
 
@@ -14,5 +17,8 @@ int _strlen(char *s);
 
 /* prototype of function _puts */
 void _puts(char *str);
+
+/* prototype of function print_rev */
+void print_rev(char *s);
 
 #endif /* MAIN_H */
