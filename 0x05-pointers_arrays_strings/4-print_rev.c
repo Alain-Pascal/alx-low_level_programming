@@ -1,4 +1,6 @@
 #include "main.h"
+/* for strlen() */
+#include <string.h>
 
 /**
  * print_rev - prints a string in reverse flowwed by a new line
