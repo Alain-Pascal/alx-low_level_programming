@@ -9,4 +9,7 @@ void reset_to_98(int *n);
 /* prototype of function swap_int */
 void swap_int(int *a, int *b);
 
+/* prototype of function _strlen */
+int _strlen(char *s);
+
 #endif /* MAIN_H */
