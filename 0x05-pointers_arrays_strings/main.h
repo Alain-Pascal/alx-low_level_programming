@@ -21,7 +21,10 @@ void _puts(char *str);
 /* prototype of function print_rev */
 void print_rev(char *s);
 
-/* prototype of functions rev_string */
+/* prototype of function rev_string */
 void rev_string(char *s);
+
+/* prototype of function puts2 */
+void puts2(char *str);
 
 #endif /* MAIN_H */
