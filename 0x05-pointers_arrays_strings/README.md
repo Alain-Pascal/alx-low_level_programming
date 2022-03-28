@@ -15,3 +15,4 @@ This directory contains some C files about pointers, arrays, and strings
 * 6-puts2.c
 * 7-puts_half.c
 * 8-print_array.c
+* 9-strcpy.c

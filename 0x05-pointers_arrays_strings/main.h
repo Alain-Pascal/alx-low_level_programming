@@ -33,4 +33,7 @@ void puts_half(char *str);
 /* prototype of function print_array */
 void print_array(int *a, int n);
 
+/* prototype of function _strcpy */
+char *_strcpy(char *dest, char *src);
+
 #endif /* MAIN_H */
