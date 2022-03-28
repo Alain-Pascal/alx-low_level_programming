@@ -13,6 +13,10 @@ void puts_half(char *str)
 	int len = strlen(str);
 	int half = len / 2;
 
+	/* check if number of characters is odd */
+	if ((len % 2) != 0)
+		half++;
+
 	/* printing secong half of the string */
 	for (i = half ; i < len; i++)
 	{
