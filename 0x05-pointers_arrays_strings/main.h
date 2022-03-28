@@ -27,4 +27,7 @@ void rev_string(char *s);
 /* prototype of function puts2 */
 void puts2(char *str);
 
+/* prototype of function puts_half */
+void puts_half(char *str);
+
 #endif /* MAIN_H */
