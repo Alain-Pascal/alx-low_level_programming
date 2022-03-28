@@ -30,4 +30,7 @@ void puts2(char *str);
 /* prototype of function puts_half */
 void puts_half(char *str);
 
+/* prototype of function print_array */
+void print_array(int *a, int n);
+
 #endif /* MAIN_H */
