@@ -7,3 +7,4 @@ This directory contains some C files about pointers, arrays, and strings
 * main.h
 * _putchar.c
 * 2-strchr.c
+* 3-strspn.c
