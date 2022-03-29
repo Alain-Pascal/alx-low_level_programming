@@ -21,4 +21,7 @@ int _strcmp(char *s1, char *s2);
 /* prototype of function reverse_array */
 void reverse_array(int *a, int n);
 
+/* prototype of function string_toupper */
+char *string_toupper(char *s);
+
 #endif /* MAIN_H */

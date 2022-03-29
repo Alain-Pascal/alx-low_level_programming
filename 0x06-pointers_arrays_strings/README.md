@@ -11,3 +11,4 @@ This directory contains some C files about pointers, arrays, and strings
 * 2-strncpy.c
 * 3-strcmp.c
 * 4-rev_array.c
+* 5-string_toupper.c
