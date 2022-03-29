@@ -12,4 +12,7 @@ char *_strcat(char *dest, char *src);
 /* prototype of function _strncat */
 char *_strncat(char *dest, char *src, int n);
 
+/* prototype of function _strncpy */
+char *_strncpy(char *dest, char *src, int n);
+
 #endif /* MAIN_H */
