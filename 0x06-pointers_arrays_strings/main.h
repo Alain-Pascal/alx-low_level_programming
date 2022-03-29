@@ -15,4 +15,7 @@ char *_strncat(char *dest, char *src, int n);
 /* prototype of function _strncpy */
 char *_strncpy(char *dest, char *src, int n);
 
+/* prototype of function _strcmp */
+int _strcmp(char *s1, char *s2);
+
 #endif /* MAIN_H */

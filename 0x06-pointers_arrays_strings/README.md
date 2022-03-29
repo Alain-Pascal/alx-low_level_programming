@@ -9,3 +9,4 @@ This directory contains some C files about pointers, arrays, and strings
 * 0-strcat.c
 * 1-strncat.c
 * 2-strncpy.c
+* 3-strcmp.c
