@@ -16,7 +16,7 @@
  */
 char *_strcat(char *dest, char *src)
 {
-	/* concatenaing src and dest */
+	/* concatenating src and dest */
 	/* the resulting string is stored in dest */
 	strcat(dest, src);
 
