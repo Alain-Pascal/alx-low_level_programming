@@ -24,4 +24,7 @@ char *_strpbrk(char *s, char *accept);
 /* prototype of function _strstr */
 char *_strstr(char *haystack, char *needle);
 
+/* prototype of function print_chessboard */
+void print_chessboard(char (*a)[8]);
+
 #endif /* MAIN_H */
