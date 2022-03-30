@@ -13,3 +13,4 @@ This directory contains some C files about pointers, arrays, and strings
 * 4-strpbrk.c
 * 5-strstr.c
 * 7-print_chessboard.c
+* 8-print_diagsums.c
