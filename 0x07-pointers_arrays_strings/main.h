@@ -21,4 +21,7 @@ unsigned int _strspn(char *s, char *accept);
 /* prototype of function _strpbrk */
 char *_strpbrk(char *s, char *accept);
 
+/* prototype of function _strstr */
+char *_strstr(char *haystack, char *needle);
+
 #endif /* MAIN_H */
