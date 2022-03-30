@@ -15,4 +15,7 @@ void _print_rev_recursion(char *s);
 /* prototype of function _strlen_recursion */
 int _strlen_recursion(char *s);
 
+/* prototype of function factorial */
+int factorial(int n);
+
 #endif /* MAIN_H */
