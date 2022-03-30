@@ -36,4 +36,7 @@ void print_array(int *a, int n);
 /* prototype of function _strcpy */
 char *_strcpy(char *dest, char *src);
 
+/* prototype of function _atoi */
+int _atoi(char *s);
+
 #endif /* MAIN_H */
