@@ -9,6 +9,9 @@ int _putchar(char c);
 /* prototype of function _memset */
 char *_memset(char *s, char b, unsigned int n);
 
+/* prototype of function _memcpy */
+char *_memcpy(char *dest, char *src, unsigned int n);
+
 /* prototype of function _strchr */
 char *_strchr(char *s, char c);
 

@@ -7,5 +7,6 @@ This directory contains some C files about pointers, arrays, and strings
 * main.h
 * \_putchar.c
 * 0-memset.c
+* 1-memcpy.c
 * 2-strchr.c
 * 3-strspn.c
