@@ -27,4 +27,7 @@ char *string_toupper(char *s);
 /* prototype of function cap_string */
 char *cap_string(char *);
 
+/* prototype of function leet */
+char *leet(char *);
+
 #endif /* MAIN_H */
