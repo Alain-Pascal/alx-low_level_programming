@@ -10,3 +10,4 @@ This directory contains some C files about pointers, arrays, and strings
 * 1-memcpy.c
 * 2-strchr.c
 * 3-strspn.c
+* 4-strpbrk.c
