@@ -33,4 +33,7 @@ char *leet(char *);
 /* prototype of function rot13 */
 char *rot13(char *);
 
+/* prototype of function print_number */
+void print_number (int n);
+
 #endif /* MAIN_H */
