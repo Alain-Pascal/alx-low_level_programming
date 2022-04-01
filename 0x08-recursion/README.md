@@ -12,3 +12,4 @@ This directory contains some C files about recursion
 * 3-factorial.c
 * 4-pow_recursion.c
 * 5-sqrt_recursion.c
+* 6-is_prime_number.c
