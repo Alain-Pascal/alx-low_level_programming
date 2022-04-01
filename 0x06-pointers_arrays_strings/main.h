@@ -30,4 +30,7 @@ char *cap_string(char *);
 /* prototype of function leet */
 char *leet(char *);
 
+/* prototype of function rot13 */
+char *rot13(char *);
+
 #endif /* MAIN_H */
