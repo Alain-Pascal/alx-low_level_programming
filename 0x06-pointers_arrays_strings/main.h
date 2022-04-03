@@ -39,4 +39,7 @@ void print_number (int n);
 /* ptototype of function infinte_add */
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 
+/* prototype of function print_buffer */
+void print_buffer(char *b, int size);
+
 #endif /* MAIN_H */
