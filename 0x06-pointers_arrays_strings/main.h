@@ -36,4 +36,7 @@ char *rot13(char *);
 /* prototype of function print_number */
 void print_number (int n);
 
+/* ptototype of function infinte_add */
+char *infinite_add(char *n1, char *n2, char *r, int size_r);
+
 #endif /* MAIN_H */
