@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 /**
- * main - add positive numbers
+ * main - adds positive numbers
  * @argc: number of command line arguments
  * @argv: pointer to array that holds command line arguments values
  *
@@ -11,27 +11,29 @@
  */
 int main(int argc, char *argv[])
 {
-	int i, sum = 0;
+	int i, sum = 0, count = 1;
 
-	if (argc > 1)
+	if (argc == 1)
 	{
-		for (i = 1 ; i < argc; i++)
+		printf("0\n");
+		return (0);
+	}
+	while (count < argc)
+	{
+		for (i = 0 ; argv[count][i] != '\0'; i++)
 		{
-			if (atoi(argv[i]))
-			{
-				sum += atoi(argv[i]);
-			}
-			else
+			if (!(isdigit(argv[count][i])))
 			{
 				printf("Error\n");
 				return (1);
 			}
 		}
 
-		printf("%d\n", sum);
+		sum += atoi(argv[count]);
+		count++;
 	}
-	else
-		printf("0\n");
+
+	printf("%d\n", sum);
 
 	return (0);
 }
