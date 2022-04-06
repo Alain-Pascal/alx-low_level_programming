@@ -12,7 +12,12 @@ int main(int argc, char *argv[])
 {
 	int i, product = 1;
 
-	if (argc > 1 && argc <= 3)
+	if (argc != 3)
+	{
+		printf("Error\n");
+		return (1);
+	}
+	else
 	{
 		for (i = 1 ; i < argc; i++)
 		{
@@ -20,11 +25,6 @@ int main(int argc, char *argv[])
 		}
 
 		printf("%d\n", product);
-	}
-	else
-	{
-		printf("Error\n");
-		return (1);
 	}
 
 	return (0);
