@@ -19,4 +19,7 @@ int **alloc_grid(int width, int height);
 /* prototype of function free_grid */
 void free_grid(int **grid, int height);
 
+/* prototype of function argstostr */
+char *argstostr(int ac, char **av);
+
 #endif /* MAIN_H */
