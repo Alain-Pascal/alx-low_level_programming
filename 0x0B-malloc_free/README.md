@@ -8,3 +8,4 @@ This directory contains C files about mallloc, free
 * 1-strdup.c
 * 2-str_concat.c
 * 3-alloc_grid.c
+* 4-free_grid.c
