@@ -10,4 +10,7 @@ char *create_array(unsigned int size, char c);
 /* prototype of function _strdup */
 char *_strdup(char *str);
 
+/* prototype of function str_concat */
+char *str_concat(char *s1, char *s2);
+
 #endif /* MAIN_H */
