@@ -13,4 +13,7 @@ void *malloc_checked(unsigned int b);
 /* prototye of function string_nconcat */
 char *string_nconcat(char *s1, char *s2, unsigned int n);
 
+/* prototype of function _calloc */
+void *_calloc(unsigned int nmemb, unsigned int size);
+
 #endif /* MAIN_H */
