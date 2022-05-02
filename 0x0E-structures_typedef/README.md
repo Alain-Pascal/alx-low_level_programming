@@ -1,0 +1,7 @@
+# 0x0E- structures_typeof
+
+This directory contains C files about structures, typeof
+
+## files
+
+* dog.h
