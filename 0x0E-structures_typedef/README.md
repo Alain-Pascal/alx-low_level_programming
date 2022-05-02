@@ -5,3 +5,4 @@ This directory contains C files about structures, typeof
 ## files
 
 * dog.h
+* 1-init_dog.c
