@@ -10,4 +10,7 @@ int sum_them_all(const unsigned int n, ...);
 /* prototype of function print_numbers */
 void print_numbers(const char *separator, const unsigned int n, ...);
 
+/* prototype of function print_strings */
+void print_strings(const char *separator, const unsigned int n, ...);
+
 #endif /* VARIADIC_FUNCTIONS_H */
