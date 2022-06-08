@@ -1,6 +1,6 @@
 # 0x12-singly_linked_lists
 
-This directory contains some C files about 0x12. C - SIngly linked lists
+This directory contains some C files about 0x12. C - Singly linked lists
 project
 
 ## files
@@ -14,3 +14,4 @@ project
 * 4-free_list.c
 * 100-first.c
 * 101-hello_holberton.asm
+* testFiles/
