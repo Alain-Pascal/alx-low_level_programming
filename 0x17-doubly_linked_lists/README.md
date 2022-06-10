@@ -23,4 +23,9 @@ This directory contains some C files about 0x17. C - Doubly linked lists project
     > It prints "OK" when the password is correct
 
 * 102-result
+
+    > A file that has the result of the largest palindrome made from the product of two 3-digit numbers
+    >
+    > It contains the exact result, no new line, no extra space
+
 * 103-keygen.c
