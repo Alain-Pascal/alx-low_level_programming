@@ -12,3 +12,4 @@ This directory contains some C files about 0x13. C - More singly linked lists pr
 * 3-add_nodeint_end.c
 * 4-free_listint.c
 * 5-free_listint2.c
+* 6-pop_listint.c
