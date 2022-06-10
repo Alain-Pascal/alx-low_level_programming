@@ -16,7 +16,7 @@ This directory contains some C files about 0x17. C - Doubly linked lists project
 * 8-delete_dnodeint.c
 * 100-password
 
-    > A program that finds the passowrd for [crackme4](https://github.com/holbertonschool/0x17.c)
+    > A program that finds the passowrd for [crackme4](https://github.com/holbertonschool/0x17.c/blob/master/crackme4)
     >
     > It contains the exact passowrd, no new line, no extra space
     >
