@@ -29,3 +29,13 @@ This directory contains some C files about 0x17. C - Doubly linked lists project
     > It contains the exact result, no new line, no extra space
 
 * 103-keygen.c
+
+    > A program file that generates a key for [crackme5](https://github.com/holbertonschool/0x17.c/blob/master/crackme5)
+    >
+    > Usage of the crackme: `./crackme5 username key`
+    >
+    > The crackme will segfault if the correct key for the use is not entered
+    >
+    > Usage of keygen: `./keygen5 username`
+    > 
+    > The keygen should print a valid key for the `username`
