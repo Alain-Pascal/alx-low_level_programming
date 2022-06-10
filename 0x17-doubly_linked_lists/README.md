@@ -12,3 +12,4 @@ This directory contains some C files about 0x17. C - Doubly linked lists project
 * 4-free_dlistint.c
 * 5-get_dnodeint.c
 * 6-sum_dlistint.c
+* 7-insert_dnodeint.c
