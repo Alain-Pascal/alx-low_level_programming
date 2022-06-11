@@ -8,3 +8,4 @@ This directory contains some C files about 0x14. C - Bit manipulation project
 * \_putchar.c
 * testFiles/
 * 0-binary_to_uint.c
+* 1-print_binary.c
