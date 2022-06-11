@@ -15,3 +15,7 @@ This directory contains some C files about 0x14. C - Bit manipulation project
 * 5-flip_bits.c
 * 100-get_endianness.c
 * 101-password
+    
+    > This file contains the password for this [program](https://github.com/holbertonschool/0x13.c)
+    > 
+    > The file only contains the exact password, no new line, no extra space
