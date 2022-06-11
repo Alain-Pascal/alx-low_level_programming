@@ -11,3 +11,4 @@ This directory contains some C files about 0x14. C - Bit manipulation project
 * 1-print_binary.c
 * 2-get_bit.c
 * 3-set_bit.c
+* 4-clear_bit.c
