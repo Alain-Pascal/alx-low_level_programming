@@ -33,6 +33,19 @@ This directory contains some C files about pointers, arrays, and strings
     > Not any ternary operation is used
 
 * 100-rot13.c
+
+    > A function file that encodes a string using [rot13](https://en.wikipedia.org/wiki/ROT13)
+    >
+    > Function prototype: `char *rot13(char *);`
+    >
+    > `if` statement used only once
+    >
+    > Only two loops are used
+    >
+    > `switch` is not used
+    >
+    > Not any ternary operation is used
+
 * 101-print_number.c
 * 103-infinite_add.c
 * 104-print_buffer.c
