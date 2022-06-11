@@ -14,6 +14,24 @@ This directory contains some C files about pointers, arrays, and strings
 * 5-string_toupper.c
 * 6-cap_string.c
 * 7-leet.c
+
+    > A function file that encodes a string to [1337](https://en.wikipedia.org/wiki/Leet)
+    >   * Letters `a` and `A` should be replaced by `4`
+    >   * Letters `e` and `E` should be replaced by `3`
+    >   * Letters `o` and `O` should be replaced by `0`
+    >   * Letters `t` and `T` should be replaced by `7`
+    >   * Letters `l` and `L` should be replaced by `1`
+    >
+    > Function prototype: `char *leet(char *);`
+    >
+    > Only one `if` is used
+    >
+    > Only two loops are used
+    >
+    > `switch` is not used
+    >
+    > Not any ternary operation is used
+
 * 100-rot13.c
 * 101-print_number.c
 * 103-infinite_add.c
