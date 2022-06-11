@@ -9,3 +9,4 @@ This directory contains some C files about 0x14. C - Bit manipulation project
 * testFiles/
 * 0-binary_to_uint.c
 * 1-print_binary.c
+* 2-get_bit.c
