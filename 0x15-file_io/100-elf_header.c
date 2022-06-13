@@ -23,7 +23,7 @@ void check_elf(unsigned char *e_ident)
 
 /**
  * print_magic - prints the magic numbers of an ELF header
- * @e_ident: pointer to an arry containing the ELF magic numbers
+ * @e_ident: pointer to an array containing the ELF magic numbers
  *
  * Description: magic number are separated by spaces
  */
@@ -251,7 +251,7 @@ int main(int __attribute__((__unused__)) ac, char *av[])
 	int o, r;
 
 	o = open(av[1], O_RDONLY);
-	if (0 == -1)
+	if (o == -1)
 	{
 		dprintf(STDERR_FILENO, "Error: Can't read file %s\n", av[1]);
 		exit(98);
@@ -263,11 +263,11 @@ int main(int __attribute__((__unused__)) ac, char *av[])
 		dprintf(STDERR_FILENO, "Error: Can't read file %s\n", av[1]);
 		exit(98);
 	}
-	r = read(0, header, sizeof(Elf64_Ehdr));
+	r = read(o, header, sizeof(Elf64_Ehdr));
 	if (r == -1)
 	{
 		free(header);
-		close_elf(0);
+		close_elf(o);
 		dprintf(STDERR_FILENO, "Erro: '%s': No such file\n", av[1]);
 		exit(98);
 	}
