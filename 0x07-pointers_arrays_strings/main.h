@@ -30,4 +30,7 @@ void print_chessboard(char (*a)[8]);
 /* prototype of function print_diagsums */
 void print_diagsums(int *a, int size);
 
+/* prototype of function set_string */
+void set_string(char **s, char *to);
+
 #endif /* MAIN_H */
